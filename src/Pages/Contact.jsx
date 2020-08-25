@@ -1,12 +1,12 @@
 import React from 'react';
 
 
-const Home = () => {
+const Contact = () => {
     return(
         <div className="container-fluid nav_bg">
         <div className="row">
             <div className="col-10 mx-auto">
-                <p>Hi</p>
+                <p>Hi contact</p>
             </div>
 
         </div>
@@ -14,4 +14,4 @@ const Home = () => {
     );
 };
 
-export default Home;
+export default Contact;

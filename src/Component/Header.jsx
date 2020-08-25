@@ -1,7 +1,7 @@
 import React from "react";
 import {NavLink} from "react-router-dom";
 
-const Navbar = () =>{
+const HeaderGlobal = () =>{
     return(
         <>
         <div className="container-fluid nav_bg">
@@ -46,4 +46,4 @@ const Navbar = () =>{
     );
 };
 
-export default Navbar
+export default HeaderGlobal;

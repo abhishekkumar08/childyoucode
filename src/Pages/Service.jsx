@@ -1,12 +1,11 @@
 import React from 'react';
 
-
-const Contact = () => {
+const Service = () => {
     return(
         <div className="container-fluid nav_bg">
         <div className="row">
             <div className="col-10 mx-auto">
-                <p>Hi</p>
+                <p>Hi Service</p>
             </div>
 
         </div>
@@ -14,4 +13,4 @@ const Contact = () => {
     );
 };
 
-export default Contact;
+export default Service;
