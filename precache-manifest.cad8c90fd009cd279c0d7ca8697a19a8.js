@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6ea2132d48ee01c82b49a22168dcbb0",
+    "revision": "948eace910dc4d5183f073eca8e26b84",
     "url": "/childyoucode/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/childyoucode/static/js/2.08a5a176.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "02c473c2712f64442f70",
-    "url": "/childyoucode/static/js/main.c9844fa9.chunk.js"
+    "revision": "d593bc0618e297caadb5",
+    "url": "/childyoucode/static/js/main.2c88e564.chunk.js"
   },
   {
     "revision": "1b78f7ccc389d211ed5e",
